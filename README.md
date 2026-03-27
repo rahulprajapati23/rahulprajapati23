@@ -89,16 +89,6 @@ Delivered a structured VAPT report including PoC, impact analysis, and remediati
 
 ---
 
-## 🎯 Strategic Roadmap
-
-- [ ] PNPT — Practical Network Penetration Tester  
-- [ ] OSCP — Offensive Security Certified Professional  
-- [ ] Advanced Active Directory attack chains  
-- [ ] Malware analysis (static & dynamic)  
-- [ ] Build a documented lab-grade C2 simulation framework  
-
----
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -116,7 +106,7 @@ Delivered a structured VAPT report including PoC, impact analysis, and remediati
 
 🌐 Portfolio → https://rahul-prajapati-portfolio.vercel.app  
 💼 LinkedIn → https://www.linkedin.com/in/rahul-prajapati-  
-📧 Email → prajapatirahul.contact@gmail.com  
+📧 Email → rahul2100007@gmail.com  
 
 ---
 
